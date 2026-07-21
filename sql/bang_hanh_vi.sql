@@ -1,1 +1,0 @@
-SELECT * FROM bang_hanh_vi
